@@ -1,0 +1,18 @@
+body{
+    background-color:lavender;
+    text-align: center;
+    color:lavender;
+    font-family: 'Righteous', cursive;
+    
+}
+div{
+    background-color: darkolivegreen;
+    border-radius: 18px;
+    width:70%;
+    padding:12px;
+    float: none;
+}
+canvas{
+    background:white;
+    
+}
